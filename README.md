@@ -1,2 +1,3 @@
-# MyApp
-School playground
+# Hello...
+
+This is a simple C# program, which just makes a string and keeps adding a single o to it, and writes it to terminal again
